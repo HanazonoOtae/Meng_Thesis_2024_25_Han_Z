@@ -9,12 +9,3 @@ This project presents a **3rd-order CIFF Sigma-Delta Modulator (ΣΔM)** optimiz
 - **Performance metrics**: SNR = 119.33 dB, DR = 119.9 dB
 - **Future work**: Circuit-level implementation & OTA optimization
 
-## 📂 Repository Contents
-- **Thesis.pdf** (Final Report)
-- **Simulink_Model.slx** (ΣΔM Model)
-- **MATLAB_Scripts/** (Scripts for simulations & analysis)
-- **Results/** (Simulation results, FFT plots, noise analysis)
-- **Presentation/** (Final presentation slides & A1 poster)
-
-## 🚀 How to Use
-1. Clone the repository:
